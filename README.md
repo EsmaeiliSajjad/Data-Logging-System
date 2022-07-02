@@ -1,7 +1,7 @@
 # Data-Logging-System
 In this project, the designed data logging software for several analog I/O modules from NI is demonstrated.
 # Table of Centent
-1. [Description] (#1)
+1. [Description](#1)
 2. [Required Analog I/O Modules](#2) 
 3. [Supported Devices/components](#3)
 4. [Display](#4)
