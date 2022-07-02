@@ -21,4 +21,4 @@ In this project, the designed data logging software for several analog I/O modul
 
 <a name="5"></a>
 # Calibration
-Any sensors such as Pressure transdcuer, Thermocpouple, Mass flow meter or Mass flow Controllers always come with a calibration sheet provided by the manusfacturer. 
+Any sensors such as Pressure transdcuer, Thermocpouple, Mass flow meter or Mass flow Controllers always come with a calibration sheet provided by the manusfacturer. For example for a pressure transdcuer with 0-10V configuration and 0-500 psi pressure variation, a calibration sheet shows the variation of pressure with corresponding voltage. Since most of sensors follow the linear trend between the measured parameter (e.g. pressure) and its analog output (e.g. voltage), a linear regression should be done on pressure versus voltage data.
