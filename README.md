@@ -5,7 +5,8 @@ In this project, the designed data logging software for several analog I/O modul
 2. [Required Analog I/O Modules](#2) 
 3. [Supported Devices/components](#3)
 4. [Display](#4)
-5. [Calibration](#5)
+5. [Calibration](#5) 
+
 <a name="1"></a>
 The data logging is one of the most essential element for any instrument or setup which is able to record and monitor the value of different sensors incolved in the setup. It lets the operator to check tye value online and save the data for the future analysis. Here, we are showing a developed data logging software which can be used widely for laboratory experimental setup. Figure 1 shows the look of the developed software. 
 
